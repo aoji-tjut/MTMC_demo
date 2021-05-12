@@ -1,0 +1,5 @@
+{
+    "data_dir": "../data/pic/test/",
+    "out_dir":"../data/pic/test(add)/",
+    "mode": "video"
+}

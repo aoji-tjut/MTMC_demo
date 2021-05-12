@@ -1,0 +1,5 @@
+{
+    "data_dir": "./data/Reid/Train/Day/2020-09-02-07-34-22_24-29",
+    "pic_dir":"./data/Reid/Test/spares_val",
+    "mode": "image"
+}

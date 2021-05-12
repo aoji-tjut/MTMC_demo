@@ -1,0 +1,7 @@
+{
+    "train_dir": "./data/Reid/Train/",
+    "train_batch_size" : "32",
+    "train_number_epochs" : "50",
+    "train_list": "2020-07-17-07-20-34_7500",
+    "model_dir": "./model/model.pt"
+}

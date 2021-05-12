@@ -1,0 +1,5 @@
+{
+    "test_dir": "./data/Reid/Test/sparse_val",
+    "model_dir": "./model/model.pt",
+    "thresold": "1"
+}
